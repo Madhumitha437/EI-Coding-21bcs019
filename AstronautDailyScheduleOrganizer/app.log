@@ -1,0 +1,75 @@
+2024-07-24 20:38:44 [INFO]: Task added successfully. No conflicts.: morning exercise
+2024-07-24 20:40:12 [INFO]: Error: Task conflicts with existing tasks.: meeting
+2024-07-24 20:40:28 [INFO]: Tasks viewed.
+2024-07-24 20:41:18 [INFO]: Tasks viewed by priority: high
+2024-07-24 20:42:24 [INFO]: Task edited successfully. No conflicts.: morning exercise to training
+2024-07-24 20:42:43 [WARNING]: Task not found: training
+2024-07-24 20:42:52 [INFO]: Tasks viewed.
+2024-07-24 20:45:23 [INFO]: Task marked as completed: morning exercise
+2024-07-24 20:45:29 [INFO]: Tasks viewed.
+2024-07-24 20:46:20 [WARNING]: Invalid menu choice: 8
+2024-07-24 20:46:24 [WARNING]: Invalid input: not a number
+2024-07-24 20:46:29 [INFO]: Application exited.
+2024-07-24 20:48:54 [INFO]: Task added successfully. No conflicts.: jogging
+2024-07-24 20:49:42 [INFO]: Task edited successfully. No conflicts.: jogging to pushups
+2024-07-24 20:49:48 [INFO]: Tasks viewed.
+2024-07-24 21:04:36 [INFO]: Application exited.
+2024-07-24 21:04:44 [EXCEPTION]: Failed to add task - Uncompilable code - incompatible types: void cannot be converted to java.lang.String
+2024-07-24 21:04:52 [EXCEPTION]: Failed to add task - Uncompilable code - incompatible types: void cannot be converted to java.lang.String
+2024-07-24 21:07:16 [INFO]: Task added: skipping
+2024-07-24 21:07:47 [INFO]: Task edited: skipping to pushups
+2024-07-24 21:07:56 [INFO]: Tasks viewed.
+2024-07-24 21:08:04 [INFO]: Application exited.
+2024-07-27 18:47:13 [INFO]: Task added: morning
+2024-07-27 18:47:18 [INFO]: Tasks viewed.
+2024-07-27 18:48:57 [INFO]: Task marked as completed: morning
+2024-07-27 18:49:32 [INFO]: Task added: morning
+2024-07-27 18:49:38 [INFO]: Tasks viewed.
+2024-07-27 18:49:58 [INFO]: Task added: morning
+2024-07-27 18:50:05 [INFO]: Tasks viewed.
+2024-07-27 18:50:16 [INFO]: Task marked as completed: morning
+2024-07-27 18:50:24 [INFO]: Tasks viewed.
+2024-07-27 18:55:07 [INFO]: Task marked as completed: morning
+2024-07-27 18:55:14 [INFO]: Tasks viewed.
+2024-07-27 18:55:34 [INFO]: Application exited.
+2024-07-27 18:59:39 [INFO]: Task added: jooging
+2024-07-27 19:00:31 [INFO]: Task added: jooging
+2024-07-27 19:00:38 [INFO]: Tasks viewed.
+2024-07-27 19:01:14 [WARNING]: Task not found.
+2024-07-27 19:01:38 [INFO]: Task marked as completed: jooging
+2024-07-27 19:01:48 [INFO]: Tasks viewed.
+2024-07-27 19:02:19 [INFO]: Task marked as completed: jooging
+2024-07-27 20:00:17 [INFO]: Application exited.
+2024-07-27 20:00:44 [INFO]: Task added: jogging
+2024-07-27 20:01:05 [INFO]: Task marked as completed: jogging
+2024-07-27 20:01:28 [WARNING]: Task not found.
+2024-07-27 20:02:17 [INFO]: Tasks viewed.
+2024-07-27 20:04:27 [INFO]: Application exited.
+2024-07-27 20:05:02 [INFO]: Task added: jogging
+2024-07-27 20:05:20 [INFO]: Task marked as completed: jogging
+2024-07-27 20:05:45 [WARNING]: Task not found.
+2024-07-27 20:06:28 [INFO]: Application exited.
+2024-07-27 20:06:50 [INFO]: Task added: jogging
+2024-07-27 20:07:08 [INFO]: Task marked as completed: jogging
+2024-07-27 20:07:23 [WARNING]: Task not found.
+2024-07-27 20:36:45 [INFO]: Tasks viewed.
+2024-07-27 20:42:57 [INFO]: Application exited.
+2024-07-27 20:43:33 [INFO]: Task added: jogging
+2024-07-27 20:43:56 [WARNING]: Task conflicts with existing tasks.
+2024-07-27 20:44:44 [INFO]: Tasks viewed.
+2024-07-27 20:45:05 [WARNING]: Task not found.
+2024-07-27 20:45:29 [INFO]: Task marked as completed: jogging
+2024-07-27 20:45:53 [WARNING]: Task not found.
+2024-07-27 20:45:59 [INFO]: Tasks viewed.
+2024-07-27 20:51:34 [INFO]: Application exited.
+2024-07-28 19:22:54 [INFO]: Task added: jogging
+2024-07-28 19:23:15 [INFO]: Task marked as completed: jogging
+2024-07-28 19:23:20 [INFO]: Tasks viewed.
+2024-07-28 19:23:44 [INFO]: Task is already completed: jogging
+2024-07-28 19:26:02 [INFO]: Tasks viewed by priority: high
+2024-07-28 19:30:25 [INFO]: Application exited.
+2024-07-29 17:02:25 [INFO]: Task added: jog
+2024-07-29 17:02:40 [WARNING]: Task not found: jog
+2024-07-29 17:02:45 [INFO]: Tasks viewed.
+2024-07-29 17:03:12 [INFO]: Task marked as completed: jog
+2024-07-29 17:03:31 [INFO]: Task is already completed: jog
