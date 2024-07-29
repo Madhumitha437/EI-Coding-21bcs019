@@ -1,0 +1,8 @@
+ConsoleObserver.class
+Observer.class
+Task.class
+TaskManagerApp.class
+TaskManager.class
+Logger.class
+Subject.class
+TaskFacade.class

@@ -1,0 +1,7 @@
+com\mycompany\problem1structuraldecorator\Problem1StructuralDecorator.class
+Task.class
+TaskManagerApp.class
+TaskManager.class
+Logger.class
+LoggingTaskDecorator.class
+TaskDecorator.class
